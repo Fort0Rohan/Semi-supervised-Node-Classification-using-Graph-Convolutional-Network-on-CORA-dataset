@@ -1,0 +1,2 @@
+- The python code for building the model is in the "GCN.ipynb" file.
+- The PDF describes the whole process and results also the ablation studies.
